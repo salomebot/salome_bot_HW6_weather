@@ -1,0 +1,1 @@
+Now retrieving ballinahttp://api.openweathermap.org/data/2.5/weather?appid=d9574ab3601b961626f2e9c15bccdc43&q=ballina
